@@ -1,0 +1,22 @@
+{
+    "code":200,
+    "msg":"SUCCESS",
+    "data":{
+        "appEnable":1,
+        "bundles":[
+            {
+                "id":3,
+                "bundleName":"buz1",
+                "versionName":"1.0.0",
+                "downloadUrl":"https://hfdy.github.io/rn.test.github.io/rn.kd.buz1.v1.0.0.zip",
+                "isMustUpdate":1
+            }
+        ],
+        "bundleEnables":[
+            {
+                "enable":1,
+                "moduleName":"buz1"
+            }
+        ]
+    }
+}
